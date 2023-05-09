@@ -1,5 +1,5 @@
 # Description
-A search-as-you type autocomplete feature similar to Google Search. The backend simulates fetching search results and the frontend displays these results.
+A search-as-you type autocomplete feature similar to Google Search. The backend simulates fetching search results and the minimal frontend displays these results.
 
 
 # What I would work on if I were to spend more time on this project:

@@ -1,6 +1,8 @@
 # Description
 A search-as-you type autocomplete feature similar to Google Search. The backend simulates fetching search results and the minimal frontend displays these results.
 
+Example:
+<img width="541" alt="image" src="https://github.com/agarg5/full-stack-coding-example/assets/45175645/13a18d1e-9845-4a2d-b3db-f1442c295d09">
 
 # What I would work on if I were to spend more time on this project:
 

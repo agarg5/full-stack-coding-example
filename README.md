@@ -7,11 +7,10 @@ A search-as-you type autocomplete feature similar to Google Search. The backend 
 - use turbo repo to avoid having to simplify the setup instructions below
 - use Typescript rather than Javascript
 - throttle user input to limit API requests sent to backend
-- change to headless UI component to have buttons such as "I'm feeling lucky"
-- host app (on localhost for now. can host it on heroku for example, but would also then need to host backend if hosting FE)
-- improve UI for search input to match GIF (e.g. border on input)
 - separate FE into multiple files
-- only show 10 results
+- limit number of search results shown
+- support additional styling options and UI around the search input
+
 
 # How it works:
 

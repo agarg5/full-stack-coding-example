@@ -10,6 +10,7 @@ A search-as-you type autocomplete feature similar to Google Search. The backend 
 - separate FE into multiple files
 - limit number of search results shown
 - support additional styling options and UI around the search input
+- add testing
 
 
 # How it works:

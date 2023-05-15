@@ -12,7 +12,7 @@ Example:
 - separate FE into multiple files
 - limit number of search results shown
 - support additional styling options and UI around the search input
-- add testing
+- add testing (maybe using playwright)
 
 
 # How it works:
